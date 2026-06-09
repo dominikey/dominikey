@@ -2,6 +2,7 @@
 
 <p align="center">
 Building software, learning continuously, and turning ideas into practical solutions.
+  <p></p>
 </p>
 
 <p align="center" top="12px">
