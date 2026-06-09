@@ -23,6 +23,12 @@ Building software, learning continuously, and turning ideas into practical solut
 
 ### Web Development
 
+
+### Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 ## 🚀 Featured Project
 
 ### Cross-Platform Health Tracking Application
@@ -40,10 +46,4 @@ Developed a cross-platform desktop and mobile application in Python focused on h
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-### Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
