@@ -23,6 +23,21 @@ Building software, learning continuously, and turning ideas into practical solut
 
 ### Web Development
 
+## 🚀 Featured Project
+
+### Cross-Platform Health Tracking Application
+
+Developed a cross-platform desktop and mobile application in Python focused on health tracking and data management.
+
+🔹 Created interfaces optimized for both desktop and mobile devices.
+
+🔹 Implemented features to store, validate, and retrieve historical health data.
+
+🔹 Worked throughout the software development lifecycle, from planning and prototyping to debugging and testing.
+
+🔹 Developed over a 6-month project cycle as a solo developer.
+
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
