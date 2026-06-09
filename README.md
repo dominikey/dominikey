@@ -70,6 +70,6 @@ Contributed to the development and optimization of web applications using JavaSc
 ## 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/dominika-gudi%C3%B1o-pe%C3%B1a-8241b8382/
-* <!-- Te amo Domiiiiiii -->
+  <!-- Te amo Domiiiiiii -->
 
 
