@@ -2,7 +2,6 @@
 
 <p align="center">
 Building software, learning continuously, and turning ideas into practical solutions.
-  <p></p>
 </p>
 
 <p align="center" top="12px">
@@ -10,14 +9,13 @@ Building software, learning continuously, and turning ideas into practical solut
 🌎 English • Spanish • French • Italian<br>
 🚀 Fast Learner • Curious Mind • Problem Solver
 </p>
+  <p></p>
 <p align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![OutSystems](https://img.shields.io/badge/OutSystems-EA1D25?style=for-the-badge)
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OutSystems-EA1D25?style=for-the-badge" />
 </p>
 ---
 
