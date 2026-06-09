@@ -7,7 +7,7 @@ Building software, learning continuously, and turning ideas into practical solut
 
 <p align="center" top="12px">
 💻 Python • JavaScript • SQL • Web Development<br>
-🌎 English • Spanish • French • Italian<br>
+🌎 English • Spanish • French • German •Italian<br>
 🚀 Fast Learner • Curious Mind • Problem Solver
 </p>
   <p></p>
@@ -23,7 +23,7 @@ Building software, learning continuously, and turning ideas into practical solut
 ## 💫 About Me
 
 * 🧠 Fast learner with a curious mindset and a passion for continuous growth.
-* 💻 Interested in web development, cross-platform applications, and software that solves real-world problems.
+* 💻 Interested in web development, cross-platform applications, and creating software that solves real-world problems.
 * 🤝 Collaborative, adaptable, and always eager to take on new challenges.
 * 🚀 Motivated by learning, innovation, and continuous improvement.
 
