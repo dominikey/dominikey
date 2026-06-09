@@ -4,7 +4,7 @@
 Building software, learning continuously, and turning ideas into practical solutions.
 </p>
 
-<p align="center">
+<p align="center" top="12px">
 💻 Python • JavaScript • SQL • Web Development<br>
 🌎 English • Spanish • French • Italian<br>
 🚀 Fast Learner • Curious Mind • Problem Solver
