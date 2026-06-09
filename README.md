@@ -1,4 +1,4 @@
-# Welcome to Dominikey's corner 👋
+# Welcome to Dominikey's corner 
 
 💻 Systems Engineering student with hands-on experience in web development and cross-platform applications.
 
