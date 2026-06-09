@@ -1,12 +1,16 @@
-# Welcome to Dominikey's corner 
+<h1 align="center">✨ Welcome to Dominikey's corner ✨</h1>
 
-💻 Systems Engineering student with hands-on experience in web development and cross-platform applications.
+<p align="center">
+Building software, learning continuously, and turning ideas into practical solutions.
+</p>
 
-⚙️ Currently working with JavaScript, Python, SQL, HTML, CSS, and OutSystems.
-
-🏗️ Interested in building scalable software, improving user experiences, and transforming ideas into practical solutions.
-
-🔄 Experienced in Agile development environments, collaborative teamwork, and the complete software development lifecycle.
+<p align="center">
+💻 Python • JavaScript • SQL • Web Development
+<br>
+🌎 English • Spanish • French • Italian
+<br>
+🚀 Fast Learner • Curious Mind • Problem Solver
+</p>
 
 
 ## 🛠️ Technical Ecosystem
