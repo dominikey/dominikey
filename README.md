@@ -5,45 +5,61 @@ Building software, learning continuously, and turning ideas into practical solut
 </p>
 
 <p align="center">
-💻 Python • JavaScript • SQL • Web Development
-<br>
-🌎 English • Spanish • French • Italian
-<br>
+💻 Python • JavaScript • SQL • Web Development<br>
+🌎 English • Spanish • French • Italian<br>
 🚀 Fast Learner • Curious Mind • Problem Solver
 </p>
 
+---
 
-## 🛠️ Technical Ecosystem
+## 💫 About Me
 
-### Languages
+* 🧠 Fast learner with a curious mindset and a passion for continuous growth.
+* 💻 Interested in web development, cross-platform applications, and software that solves real-world problems.
+* 🤝 Collaborative, adaptable, and always eager to take on new challenges.
+* 🚀 Motivated by learning, innovation, and continuous improvement.
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,github" />
 </p>
-
-### Web Development
-
-
-### Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+Agile • Scrum • OutSystems
 </p>
+
+---
+
 ## 🚀 Featured Project
 
-### Cross-Platform Health Tracking Application
+### Health Tracking Application
 
-Developed a cross-platform desktop and mobile application in Python focused on health tracking and data management.
+Developed a desktop and mobile application in Python focused on health tracking and data management.
 
-🔹 Created interfaces optimized for both desktop and mobile devices.
+* Created interfaces optimized for both desktop and mobile devices.
+* Implemented features to store, validate, and retrieve historical health data.
+* Participated throughout the software development lifecycle, including planning, prototyping, debugging, and testing.
+* Developed over a 6-month project cycle.
 
-🔹 Implemented features to store, validate, and retrieve historical health data.
+---
 
-🔹 Worked throughout the software development lifecycle, from planning and prototyping to debugging and testing.
+## 💼 Professional Experience
 
-🔹 Developed over a 6-month project cycle as a solo developer.
+### Bosch | Web Development Intern
 
+Contributed to the development and optimization of web applications using JavaScript, HTML, CSS, and OutSystems within an Agile environment.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+* Collaborated with cross-functional teams.
+* Resolved technical issues across different stages of development.
+* Participated in code reviews and software quality practices.
+* Contributed to delivering reliable software solutions.
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/dominika-gudi%C3%B1o-pe%C3%B1a-8241b8382/
+
